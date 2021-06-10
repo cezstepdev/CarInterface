@@ -1,0 +1,15 @@
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.csprojAssemblyReference.cache
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.Form1.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.Properties.Resources.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.csproj.GenerateResource.cache
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.csproj.CoreCompileInputs.cache
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\bin\Debug\CarInterface.exe.config
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\bin\Debug\CarInterface.exe
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\bin\Debug\CarInterface.pdb
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.exe
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.pdb
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.FormOverwiev.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.FormAnalysis.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.FormHelp.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.FormSettings.resources
+D:\studia\semsetr6\kck\CarInterface\CarInterface\CarInterface\obj\Debug\CarInterface.FormRadio.resources
